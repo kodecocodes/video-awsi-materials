@@ -1,7 +1,7 @@
-# AWS App Sync for iOS: Materials
+# AWS AppSync for iOS: Materials
 
 
-This repo contains all the downloadable materials and projects associated with the **[AWS App Sync for iOS](https://www.raywenderlich.com/library)** from [raywenderlich.com](https://www.raywenderlich.com).
+This repo contains all the downloadable materials and projects associated with the **[AWS AppSync for iOS](https://www.raywenderlich.com/library)** from [raywenderlich.com](https://www.raywenderlich.com).
 
 Each edition has its own branch, named `versions/[VERSION]`. The default branch for this repo is for the most recent edition.
 
